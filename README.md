@@ -1,7 +1,5 @@
 ## Hi there, I'm Deji Snow 👋
 
-![My github profile image](https://github.com/dejisnow/dejisnow/assets/109693282/220dc848-476b-4f15-adcf-3a3c13eaf754)
-
 
 <!--
 **dejisnow/dejisnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
