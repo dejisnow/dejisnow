@@ -1,5 +1,8 @@
 ## Hi there, I'm Deji Snow 👋
 
+![My github profile image](https://github.com/dejisnow/dejisnow/assets/109693282/220dc848-476b-4f15-adcf-3a3c13eaf754)
+
+
 <!--
 **dejisnow/dejisnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +19,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/dejisnow)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/dejisnow_dev)
+[![GitHub followers](https://img.shields.io/github/followers/dejisnow?label=Follow&style=social)](https://github.com/dejisnow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dejisnow_dev?style=social)](https://twitter.com/dejisnow_dev)
 
 ## About Me
 
@@ -43,9 +46,9 @@ Here are some of my notable projects:
 
 ## Contact
 
-- GitHub: [github.com/your-username](https://github.com/dejisnow)
-- Twitter: [@your-twitter-handle](https://twitter.com/dejisnow_dev)
-- LinkedIn: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/dejisnow)
+- GitHub: [github.com/dejisnow](https://github.com/dejisnow)
+- Twitter: [@dejisnow_dev](https://twitter.com/dejisnow_dev)
+- LinkedIn: [linkedin.com/in/dejisnow](https://linkedin.com/in/dejisnow)
 
 Feel free to reach out if you'd like to collaborate on a project or if you have any questions. I'm always eager to connect with fellow developers and share knowledge.
 
