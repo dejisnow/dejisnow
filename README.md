@@ -26,7 +26,7 @@ I am a passionate frontend developer with expertise in various web technologies 
 
 ## Skills
 
--**HTML5** -**CSS3** -**Tailwind CSS** -**JavaScript** -**React** -**Next.js** -**Git:**
+- **HTML5** - **CSS3** - **Tailwind CSS** - **JavaScript** - **React** - **Next.js** - **Git:**
  
 ## Projects
 
